@@ -1,5 +1,10 @@
 # Air Quality & Green Areas Analysis — Barcelona (2022)
 
+## 🌐 Full Project Report (Web)
+The complete analysis, including code snippets, visualizations and conclusions, is available as an interactive HTML report:
+
+👉 **[Open project report](https://bielcantera.github.io/Air-Quality-Green-Areas-Analysis-Barcelona-2022/AIR-QUALITY-BCN-MARKDOWN.html)**
+
 ## Project Overview
 This project analyzes air pollution levels in Barcelona during 2022 and explores their relationship with green areas and tree density across city districts.
 
@@ -52,7 +57,12 @@ Raw datasets are not included to avoid large files and licensing issues.
 - Biel Cantera  
 - Laura Martín  
 - Lia Siroo
-- 
+
+## Project Note
+This project was originally developed in R as an academic analysis.
+The original script files were lost due to a hardware change, but the full documented analysis
+(code, visualizations and interpretation) is preserved in the HTML report.
+
 ## Personal Contribution
 - Data cleaning and transformation in R
 - District-level and temporal analysis
